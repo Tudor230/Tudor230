@@ -2,7 +2,6 @@
 
 ## About Me
 
-I'm a Developer based in Romania.
 
 - 🌱 I’m currently learning Express and Node
 
