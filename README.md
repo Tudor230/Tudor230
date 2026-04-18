@@ -1,7 +1,7 @@
 # Hi, I'm Tudor 👋
 
-Junior Automation Tester transitioning into **AI / Backend Engineering**.
-I enjoy building practical products end-to-end, with a strong focus on **backend systems, infra, and AI-powered features**.
+I’m currently most interested in **backend development and AI systems**.
+I enjoy building practical products end-to-end, especially where strong backend architecture meets intelligent product features.
 
 ## Tech I Work With
 
@@ -23,30 +23,26 @@ I enjoy building practical products end-to-end, with a strong focus on **backend
 ## Featured Projects
 
 ### [API-Pulse](https://github.com/Tudor230/API-Pulse)
-**What it is:** Full-stack API monitoring and alerting platform.
-**Stack:** Next.js, TypeScript, Supabase, AWS Lambda, SQS.
-**My contribution:** **Full stack + infrastructure**.
+API-Pulse is a full-stack platform for monitoring APIs and reacting fast when something breaks.
+Built with **Next.js, TypeScript, Supabase, AWS Lambda, and SQS**.
 
 ### [InfoCenterAi](https://github.com/Tudor230/InfoCenterAi)
-**What it is:** University assistant platform with AI retrieval workflows.
-**Stack:** React, Spring Boot, PostgreSQL, n8n, Pinecone.
-**My contribution:** **Full stack + infrastructure**.
+InfoCenterAi is an AI-powered university assistant designed to make institutional information easier to access.
+Built with **React, Spring Boot, PostgreSQL, n8n, and Pinecone**.
 
 ### [Seally](https://github.com/Tudor230/Seally) — ITFest 2026 Winner
-**What it is:** Gamified fitness app with real-time exercise support and nutrition tooling.
-**Stack:** Kotlin/Android, Python/FastAPI, web components, LiveKit.
-**My contribution:** Camera joint recognition/form-correction pipeline, barcode scanner, and web scraping for nutrient macro auto-completion.
+Seally is a gamified fitness app that combines real-time movement feedback with smarter nutrition support.
+Built with **Kotlin/Android, Python/FastAPI, web components, and LiveKit**.
+In the team, I worked on the **camera joint-recognition/form-correction flow**, the **barcode scanner**, and **web scraping for nutrient macro auto-completion**.
 **Result:** Won the **Fitness & SportTech track** at ITFest 2026 (team of 5).
 
 ### [SAT-Solver](https://github.com/Tudor230/SAT-Solver)
-**What it is:** SAT solving project with multiple algorithms and heuristics.
-**Stack:** Python.
-**My contribution:** **Full stack** implementation; also built it as a **benchmarking harness** for comparing approaches.
+SAT-Solver explores multiple SAT algorithms and heuristics, with a focus on practical comparison.
+Built with **Python** as a **benchmarking harness** to evaluate different solving approaches.
 
 ### [WFFParser](https://github.com/Tudor230/WFFParser)
-**What it is:** Parser/evaluator for well-formed propositional logic formulas.
-**Stack:** Python, PLY, anytree.
-**My contribution:** Core parsing/evaluation logic and tooling.
+WFFParser parses and evaluates well-formed propositional logic formulas.
+Built with **Python, PLY, and anytree**.
 
 ## Hackathons
 
@@ -65,4 +61,4 @@ I enjoy building practical products end-to-end, with a strong focus on **backend
 ## A Bit About Me
 
 I like shipping things that are actually useful, especially where backend reliability meets AI features.
-Right now, I’m focused on landing an **AI or Backend role** and growing from automation testing into product-focused engineering.
+Right now, I’m focused on building strong systems and improving as an engineer in **backend and AI-focused work**.
