@@ -23,3 +23,7 @@ I'm interested in backend development, automation, and AI-powered products, and 
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-7C3AED?style=flat-square&logo=llamaindex&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## GitHub Stats
+
+![Tudor230's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tudor230&count_private=true&show_icons=true&include_all_commits=true)
