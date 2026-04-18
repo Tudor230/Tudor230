@@ -5,14 +5,31 @@ I enjoy building practical products end-to-end, especially where strong backend 
 
 ## Tech I Work With
 
+**Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+
+**Backend & Data**
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot)
-![Backend](https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=serverfault)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-000?style=for-the-badge&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![SQS](https://img.shields.io/badge/SQS-000?style=for-the-badge&logo=amazonaws)
 
 ## GitHub Stats
 
@@ -23,26 +40,30 @@ I enjoy building practical products end-to-end, especially where strong backend 
 ## Featured Projects
 
 ### [API-Pulse](https://github.com/Tudor230/API-Pulse)
-API-Pulse is a full-stack platform for monitoring APIs and reacting fast when something breaks.
-Built with **Next.js, TypeScript, Supabase, AWS Lambda, and SQS**.
+- **What it does:** Monitors API health and surfaces issues quickly through a full-stack alerting workflow.
+- **Stack:** Next.js, TypeScript, Supabase, AWS Lambda, SQS.
+- **Why it’s useful:** Focuses on reliability and faster incident response for API-driven products.
 
 ### [InfoCenterAi](https://github.com/Tudor230/InfoCenterAi)
-InfoCenterAi is an AI-powered university assistant designed to make institutional information easier to access.
-Built with **React, Spring Boot, PostgreSQL, n8n, and Pinecone**.
+- **What it does:** AI-powered university assistant that helps users find institutional information faster.
+- **Stack:** React, Spring Boot, PostgreSQL, n8n, Pinecone.
+- **Why it’s useful:** Combines classic backend services with retrieval workflows for practical AI search.
 
 ### [Seally](https://github.com/Tudor230/Seally) — ITFest 2026 Winner
-Seally is a gamified fitness app that combines real-time movement feedback with smarter nutrition support.
-Built with **Kotlin/Android, Python/FastAPI, web components, and LiveKit**.
-In the team, I worked on the **camera joint-recognition/form-correction flow**, the **barcode scanner**, and **web scraping for nutrient macro auto-completion**.
+- **What it does:** Gamified fitness app with live exercise feedback and nutrition support tools.
+- **Stack:** Kotlin/Android, Python/FastAPI, web components, LiveKit.
+- **My contribution (team project):** Camera joint-recognition/form-correction flow, barcode scanner, and nutrient macro auto-completion scraping pipeline.
 **Result:** Won the **Fitness & SportTech track** at ITFest 2026 (team of 5).
 
 ### [SAT-Solver](https://github.com/Tudor230/SAT-Solver)
-SAT-Solver explores multiple SAT algorithms and heuristics, with a focus on practical comparison.
-Built with **Python** as a **benchmarking harness** to evaluate different solving approaches.
+- **What it does:** Implements and compares multiple SAT solving algorithms and heuristics.
+- **Stack:** Python.
+- **Why it’s useful:** Built as a benchmarking harness to evaluate solver behavior across approaches.
 
 ### [WFFParser](https://github.com/Tudor230/WFFParser)
-WFFParser parses and evaluates well-formed propositional logic formulas.
-Built with **Python, PLY, and anytree**.
+- **What it does:** Parses and evaluates well-formed propositional logic formulas.
+- **Stack:** Python, PLY, anytree.
+- **Why it’s useful:** Turns formal logic expressions into something testable and easy to inspect programmatically.
 
 ## Hackathons
 
