@@ -1,6 +1,6 @@
 # Hi, I'm Tudor 👋
 
-I'm currently a Junior Automation Tester and studying at West University of Timisoara.
+I'm currently a Junior Automation Tester and studying at the West University of Timisoara.
 
 ## Technologies
 
