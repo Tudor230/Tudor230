@@ -1,18 +1,24 @@
 # Hi, I'm Tudor 👋
 
-Backend-focused engineer building practical AI-powered products.
+I'm currently a Junior Automation Tester and currently studying at West University of Timisoara.
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-black?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
