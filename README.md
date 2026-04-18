@@ -20,6 +20,6 @@ I'm interested in backend development, automation, and AI-powered products, and 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-7C3AED?style=flat-square&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-7C3AED?style=flat-square&logo=llamaindex&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
