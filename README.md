@@ -25,5 +25,15 @@ I'm interested in backend development, automation, and AI-powered systems, and I
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## GitHub Stats
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Tudor230/github-readme/main/output/contribs-dark.svg"
+  />
+  <img
+    alt="Isometric GitHub contribution chart"
+    src="https://raw.githubusercontent.com/Tudor230/github-readme/main/output/contribs-light.svg"
+  />
+</picture>
 
-![Tudor230's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tudor230&count_private=true&show_icons=true&include_all_commits=true)
+<!--![Tudor230's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tudor230&count_private=true&show_icons=true&include_all_commits=true)-->
