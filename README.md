@@ -1,6 +1,6 @@
 # Hi, I'm Tudor 👋
 
-I'm currently a Automation Tester and studying at the West University of Timisoara.
+I'm currently an Automation Tester and studying at the West University of Timisoara.
 I'm interested in backend development, automation, and AI-powered systems, and I'm open to collaborating on interesting projects.
 
 ## Technologies
